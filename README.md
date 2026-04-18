@@ -1,29 +1,10 @@
-# 🧠 Cognivault AI - Business Analyst Agent
+#  Cognivault AI - Business Analyst Agent
 
 **Where Intuition Meets Automation**
 
 A unified AI-powered platform that transforms raw data and documents into clear, actionable business insights, saving time and enhancing decision-making for business professionals.
 
----
-
-## 📋 Table of Contents
-
-- [Problem Statement](#problem-statement)
-- [Solution](#solution)
-- [Tech Stack](#tech-stack)
-- [Target Industry & Users](#target-industry--users)
-- [Project Structure](#project-structure)
-- [Core Features](#core-features)
-- [System Architecture & Flow](#system-architecture--flow)
-- [Challenges & Solutions](#challenges--solutions)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
-- [Author](#author)
-
----
-
-## 🎯 Problem Statement
+##  Problem Statement
 
 Business professionals face three major challenges:
 
@@ -35,20 +16,20 @@ Business professionals face three major challenges:
 
 ---
 
-## ✅ Solution
+##  Solution
 
 **Cognivault AI** is a unified, AI-powered workspace that combines:
 
-- **🎯 Smart Business Consulting**: Specialized frameworks (SWOT, Porter's 5 Forces, Market Research, etc.) with context-aware analysis.
-- **📄 Robust RAG-based Document Q&A**: Extract precise answers from large PDFs with page-level citations and numerical accuracy.
-- **📊 Intelligent Data Analysis**: EDA, null value analysis, outlier detection, and automated visualizations.
-- **📥 Professional Report Export**: Generate PDF and PowerPoint reports with one click.
+- ** Smart Business Consulting**: Specialized frameworks (SWOT, Porter's 5 Forces, Market Research, etc.) with context-aware analysis.
+- ** Robust RAG-based Document Q&A**: Extract precise answers from large PDFs with page-level citations and numerical accuracy.
+- ** Intelligent Data Analysis**: EDA, null value analysis, outlier detection, and automated visualizations.
+- ** Professional Report Export**: Generate PDF and PowerPoint reports with one click.
 
 **Impact**: Save 10+ hours/week, get actionable insights, and make data-driven decisions faster.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **AI & Machine Learning**
 - **Groq API** (LLaMA 3.1 70B): Fast LLM inference for business consulting and analysis
@@ -72,7 +53,7 @@ Business professionals face three major challenges:
 
 ---
 
-## 👥 Target Industry & Users
+##  Target Industry & Users
 
 ### **Industries**
 - **Consulting Firms**: Strategy, market research, competitive analysis
@@ -89,7 +70,7 @@ Business professionals face three major challenges:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Cognivault AI Business Analyst Agent/
@@ -121,7 +102,7 @@ Cognivault AI Business Analyst Agent/
 
 ---
 
-## 📖 Module Documentation
+##  Module Documentation
 
 ### **1. `app.py` (Main Application)**
 - **Purpose**: Entry point for the Streamlit web UI
@@ -178,7 +159,7 @@ Cognivault AI Business Analyst Agent/
 
 ---
 
-## 🔄 System Architecture & Flow
+##  System Architecture & Flow
 
 ### **High-Level Flow**
 
@@ -292,7 +273,7 @@ groq_client.py   rag_engine.py  data_analyzer.py
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### **Prerequisites**
 - Python 3.8 or higher
@@ -355,7 +336,7 @@ Open browser: `http://localhost:8501`
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 ### **Planned Features**
 1. **AutoML Reintegration**: Isolated environment with Docker for model training
@@ -374,20 +355,12 @@ Open browser: `http://localhost:8501`
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Parth B Mistry**
 
 - Data Science & AI Enthusiast
 - Building AI solutions for business intelligence
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 ## 🙏 Acknowledgments
 
